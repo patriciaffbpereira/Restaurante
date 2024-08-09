@@ -8,6 +8,8 @@ Var
 // Seção de Declarações das variáveis 
 // Criar aqui as variáveis necessárias para o algoritmo
 
+//NOVA ALTERAÇÃO
+
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
