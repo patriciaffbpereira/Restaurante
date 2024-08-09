@@ -6,6 +6,7 @@ Algoritmo "Lanchonete"
 // Data atual  : 07/08/2024
 Var
 // Seção de Declarações das variáveis 
+// Criar aqui as variáveis necessárias para o algoritmo
 
 
 Inicio
